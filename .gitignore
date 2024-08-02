@@ -3,6 +3,3 @@ records
 .idea
 .vscode
 *.log
-*.conf
-*.json
-*.yaml

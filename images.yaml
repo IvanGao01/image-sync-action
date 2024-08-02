@@ -1,0 +1,3 @@
+cnosdb/cnosdb:community-latest: registry.cn-beijing.aliyuncs.com/dockermirrorsio/cnosdb:community-latest
+nginx:latest: registry.cn-beijing.aliyuncs.com/dockermirrorsio/nginx:latest
+influxdb:latest: registry.cn-beijing.aliyuncs.com/dockermirrorsio/influxdb:latest
